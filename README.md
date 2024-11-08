@@ -21,7 +21,7 @@ This is a simple command-line Contact Book application implemented in Python. It
 1. **Clone the Repository:**
 
     ```sh
-    git clone git@github.com:YourUsername/Contact-Book-Python.git
+    git clone git@github.com:MazibukoLindokuhle/Contact-Book-Python.git
     cd Contact-Book-Python
     ```
 
